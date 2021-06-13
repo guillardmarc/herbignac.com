@@ -92,6 +92,10 @@ textarea {
 .logo {
     height: 150px;
 }
+.logo-min {
+    height: 50px;
+    margin-bottom: 10px;
+}
 header img {
     object-fit: cover;
     object-position: center;
